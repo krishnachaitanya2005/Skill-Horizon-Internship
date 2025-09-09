@@ -1,13 +1,17 @@
-Step 6: Social Media & OSINT
+# Step 6: Social Media & OSINT
 
-Tool used: SpiderFoot
+**Tool used:** `SpiderFoot`
 
-Commands:
+## Commands:
 
-CLI quick scan:
+**CLI quick scan:**
+```
 spiderfoot -s hackthissite.org -o csv > spiderfoot_report.csv
-Or Web UI:
+```
+**Or Web UI:**
+```
 spiderfoot -l 127.0.0.1:5001
-Findings:
+```
+## Findings:
 
-Official Twitter/X: @hackthissite
+**Official Twitter/X:** `@hackthissite`
