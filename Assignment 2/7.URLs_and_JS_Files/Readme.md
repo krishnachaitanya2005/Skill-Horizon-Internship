@@ -5,7 +5,7 @@
 ## Commands:
 ```
 gau hackthissite.org | tee urls.txt
-cat Gau.txt | grep "\.js$" | sort -u > js_files.txt
+cat urls.txt | grep "\.js$" | sort -u > js_files.txt
 ```
 Collected URLs archived in Wayback + live sources.
 
