@@ -5,7 +5,7 @@
 ## Command:
 
 ```
-theHarvester -d hackthissite.org -b bing,yahoo,duckduckgo,otx,crtsh -f harvester_report.html
+theHarvester -d hackthissite.org -b bing,yahoo,duckduckgo,otx,crtsh
 ```
 ## Emails Found:
 
