@@ -4,16 +4,9 @@
 
 Used Google Dorks and Metagoofil to search for documents (pdf,docx,pptx).
 
-## Extracted metadata using:
+## Metagoofil:
 ```
-exiftool *.pdf > metadata_report.txt
+metagoofil -d hackthissite.org -t pdf,docx,pptx -l 200 -n 200 -w
 ```
-## Findings:
-
-Author/usernames from documents
-
-PDF producer software
-
-Creation/modification timestamps
 
 *“No publicly available documents with metadata were identified.”*
