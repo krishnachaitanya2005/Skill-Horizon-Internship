@@ -4,7 +4,7 @@
 
 ## Command:
 ```
-cat js_files.txt | jsleak -s -l -c 20 -k > JSLeak.txt
+cat js_files.txt | jsleak -s -l -c 20 -k > jsleak_reports.txt
 ```
 **Result:** *No secrets or sensitive endpoints discovered.*
 
