@@ -1,0 +1,23 @@
+Find publicly available documents:
+-----------------------------------
+site:hackthissite.org filetype:pdf --------------------------------- found 18 files of type PDF
+site:hackthissite.org filetype:docx -------------------------------- found no results
+site:hackthissite.org filetype:pptx -------------------------------- found no results
+
+Check for directory listings:
+-------------------------------
+site:hackthissite.org intitle:"index of" --------------------------- found no results
+
+Look for configuration files:
+-------------------------------
+site:hackthissite.org ext:xml | ext:conf | ext:ini | ext:log ------- found no results
+
+Search for exposed backup files:
+---------------------------------
+site:hackthissite.org ext:bak | ext:old | ext:backup --------------- found no results
+
+Look for possible login pages:
+--------------------------------
+site:hackthissite.org inurl:login | inurl:signin | inurl:admin ----- found 7 results
+
+Google dorking did not reveal sensitive files or open directories for hackthissite.org.

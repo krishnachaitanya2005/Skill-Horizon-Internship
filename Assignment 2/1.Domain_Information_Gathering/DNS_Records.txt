@@ -1,0 +1,53 @@
+Server:		192.168.0.1
+Address:	192.168.0.1#53
+
+Non-authoritative answer:
+hackthissite.org	nameserver = h.ns.buddyns.com.
+hackthissite.org	nameserver = j.ns.buddyns.com.
+hackthissite.org	nameserver = g.ns.buddyns.com.
+hackthissite.org	nameserver = c.ns.buddyns.com.
+hackthissite.org	nameserver = f.ns.buddyns.com.
+Name:	hackthissite.org
+Address: 137.74.187.101
+Name:	hackthissite.org
+Address: 137.74.187.104
+Name:	hackthissite.org
+Address: 137.74.187.102
+Name:	hackthissite.org
+Address: 137.74.187.100
+Name:	hackthissite.org
+Address: 137.74.187.103
+hackthissite.org	text = "v=spf1 a mx ip4:137.74.187.96 ip4:137.74.187.97 ip4:137.74.187.98 a:mail.hackthissite.org include:aspmx.googlemail.com include:spf.hackmail.org -all"
+hackthissite.org	text = "Harica-PM9RrLqWMFZXTJCoEoK"
+hackthissite.org	text = "t-verify=e3f12c9c23e2e475563590326df31a12"
+hackthissite.org	rdata_257 = 0 issuewild "harica.gr"
+hackthissite.org	rdata_257 = 0 issue "harica.gr"
+hackthissite.org	rdata_257 = 0 iodef "mailto:admin@hackthissite.org"
+hackthissite.org	rdata_257 = 0 issuewild "sectigo.com"
+hackthissite.org	rdata_257 = 0 issuewild "letsencrypt.org"
+hackthissite.org	rdata_257 = 0 issue "letsencrypt.org"
+hackthissite.org	rdata_257 = 0 issue "sectigo.com"
+hackthissite.org	rdata_99 = "v=spf1 a mx ip4:137.74.187.96 ip4:137.74.187.97 ip4:137.74.187.98 a:mail.hackthissite.org include:aspmx.googlemail.com include:spf.hackmail.org -all"
+hackthissite.org	mail exchanger = 10 aspmx.l.google.com.
+hackthissite.org	mail exchanger = 30 aspmx3.googlemail.com.
+hackthissite.org	mail exchanger = 30 aspmx5.googlemail.com.
+hackthissite.org	mail exchanger = 20 alt2.aspmx.l.google.com.
+hackthissite.org	mail exchanger = 30 aspmx4.googlemail.com.
+hackthissite.org	mail exchanger = 30 aspmx2.googlemail.com.
+hackthissite.org	mail exchanger = 20 alt1.aspmx.l.google.com.
+hackthissite.org
+	origin = c.ns.buddyns.com
+	mail addr = admin.hackthissite.org
+	serial = 2025032501
+	refresh = 3600
+	retry = 900
+	expire = 1209600
+	minimum = 3600
+
+Authoritative answers can be found from:
+hackthissite.org	nameserver = j.ns.buddyns.com.
+hackthissite.org	nameserver = g.ns.buddyns.com.
+hackthissite.org	nameserver = c.ns.buddyns.com.
+hackthissite.org	nameserver = f.ns.buddyns.com.
+hackthissite.org	nameserver = h.ns.buddyns.com.
+

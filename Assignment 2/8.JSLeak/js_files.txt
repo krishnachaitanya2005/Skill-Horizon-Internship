@@ -1,0 +1,7 @@
+https://hackthissite.org/cdn-cgi/bm/cv/669835187/api.js
+http://www.hackthissite.org:80/_scripts/animate.js
+http://www.hackthissite.org/adm/blog/js/blogtools.js
+http://www.hackthissite.org/adm/common/js/prototype.js
+http://www.hackthissite.org/adm/common/js/tiny_mce/tiny_mce.js
+http://www.hackthissite.org/forums/styles/Carbon/template/forum_fn.js
+http://www.hackthissite.org/forums/styles/Carbon/template/styleswitcher.js

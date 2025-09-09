@@ -1,0 +1,329 @@
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-09">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Name: hackthissite&#10;URL: https://github.com/wouter075/hackthissite&#10;Description: Help files and solutions to the hack this site challenges" label="Name: hackthissite&#10;URL: https://github.com/wouter075/hackthissite&#10;Description: Help files and solutions to the hack this site challenges">
+        <viz:color r="255" g="0" b="0" a="1.0" />
+      </node>
+      <node id="hackthissite.org" label="hackthissite.org">
+        <viz:color r="255" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: adam&#10;URL: https://github.com/ami-iit/adam&#10;Description: adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy." label="Name: adam&#10;URL: https://github.com/ami-iit/adam&#10;Description: adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="adam" label="adam">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Damte" label="Damte">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="MarkMonitor, Inc." label="MarkMonitor, Inc.">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="google.com" label="google.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="lir@ovh.net" label="lir@ovh.net">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="16276" label="16276">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="INWX GmbH" label="INWX GmbH">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="buddyns.com" label="buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="abuse@porkbun.com" label="abuse@porkbun.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="h.ns.buddyns.com" label="h.ns.buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="abuse@ovh.net" label="abuse@ovh.net">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="whoisrequest@markmonitor.com" label="whoisrequest@markmonitor.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="lostinaseaofhex" label="lostinaseaofhex">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="alt1.aspmx.l.google.com" label="alt1.aspmx.l.google.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="United States" label="United States">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="contact@domainprivacyprotect.info" label="contact@domainprivacyprotect.info">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: hackthissite&#10;URL: https://github.com/Amo95/hackthissite&#10;Description: pentesting vulnerable site with allanwirth " label="Name: hackthissite&#10;URL: https://github.com/Amo95/hackthissite&#10;Description: pentesting vulnerable site with allanwirth ">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="g.ns.buddyns.com" label="g.ns.buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Mohamed Mahmoud" label="Mohamed Mahmoud">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Jake Jedlicka" label="Jake Jedlicka">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Jackal" label="Jackal">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: hackthissite&#10;URL: https://github.com/jugal97/hackthissite&#10;Description: solutions of hackthissite" label="Name: hackthissite&#10;URL: https://github.com/jugal97/hackthissite&#10;Description: solutions of hackthissite">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="spf.hackmail.org" label="spf.hackmail.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="krikara" label="krikara">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx2.googlemail.com" label="aspmx2.googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="irc@hackthissite.org" label="irc@hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="j.ns.buddyns.com" label="j.ns.buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="github: &lt;SFURL&gt;https://github.com/adamallidina&lt;/SFURL&gt;" label="github: &lt;SFURL&gt;https://github.com/adamallidina&lt;/SFURL&gt;">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="noc@ovh.net" label="noc@ovh.net">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="googlemail.com" label="googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx3.googlemail.com" label="aspmx3.googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx5.googlemail.com" label="aspmx5.googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Arseni Mourzenko" label="Arseni Mourzenko">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="admin@hackthissite.org" label="admin@hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="www.hackthissite.org" label="www.hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: adam&#10;URL: https://github.com/Malinskiy/adam&#10;Description: Adam (or adm) is a coroutine-friendly Android Debug Bridge client written in Kotlin" label="Name: adam&#10;URL: https://github.com/Malinskiy/adam&#10;Description: Adam (or adm) is a coroutine-friendly Android Debug Bridge client written in Kotlin">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Phil Laliberte" label="Phil Laliberte">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: hackthissite&#10;URL: https://github.com/Wh1t3Fox/hackthissite&#10;Description: My scripts from hackthissite.org" label="Name: hackthissite&#10;URL: https://github.com/Wh1t3Fox/hackthissite&#10;Description: My scripts from hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="f.ns.buddyns.com" label="f.ns.buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx.googlemail.com" label="aspmx.googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Google LLC" label="Google LLC">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="abuse@domrobot.com" label="abuse@domrobot.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="ashanbrown" label="ashanbrown">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: Robert&#10;URL: https://github.com/Robert-2/Robert&#10;Description: WebApp open source de gestion de parc de location de mat&#233;riel, de techniciens, calendrier..." label="Name: Robert&#10;URL: https://github.com/Robert-2/Robert&#10;Description: WebApp open source de gestion de parc de location de mat&#233;riel, de techniciens, calendrier...">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Robert" label="Robert">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="c.ns.buddyns.com" label="c.ns.buddyns.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="github: &lt;SFURL&gt;https://github.com/ottbot&lt;/SFURL&gt;" label="github: &lt;SFURL&gt;https://github.com/ottbot&lt;/SFURL&gt;">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Nick Chin" label="Nick Chin">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx.l.google.com" label="aspmx.l.google.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="John Qian" label="John Qian">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Jimtrim" label="Jimtrim">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: hackthissite&#10;URL: https://github.com/Dryl0gic/hackthissite&#10;Description: none" label="Name: hackthissite&#10;URL: https://github.com/Dryl0gic/hackthissite&#10;Description: none">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: adam&#10;URL: https://github.com/lf-edge/adam&#10;Description: Adam talks to EVE" label="Name: adam&#10;URL: https://github.com/lf-edge/adam&#10;Description: Adam talks to EVE">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="aspmx4.googlemail.com" label="aspmx4.googlemail.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="50.6922628,3.1999342" label="50.6922628,3.1999342">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="2 rue Kellermann, 59100, Roubaix, FRANCE" label="2 rue Kellermann, 59100, Roubaix, FRANCE">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="user3295361" label="user3295361">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="patrick1337" label="patrick1337">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: adam&#10;URL: https://github.com/bigdatagenomics/adam&#10;Description: ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed." label="Name: adam&#10;URL: https://github.com/bigdatagenomics/adam&#10;Description: ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="+18557675286" label="+18557675286">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="reddit: &lt;SFURL&gt;https://reddit.com/user/Martytoof&lt;/SFURL&gt;" label="reddit: &lt;SFURL&gt;https://reddit.com/user/Martytoof&lt;/SFURL&gt;">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: hackthissite&#10;URL: https://github.com/Swifty-Sousa/hackthissite&#10;Description: my solutions for hackthissite" label="Name: hackthissite&#10;URL: https://github.com/Swifty-Sousa/hackthissite&#10;Description: my solutions for hackthissite">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="mail.hackthissite.org" label="mail.hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="user638585" label="user638585">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="MarkMonitor Inc." label="MarkMonitor Inc.">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Juicy" label="Juicy">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="abusecomplaints@markmonitor.com" label="abusecomplaints@markmonitor.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="scram@hackthissite.org" label="scram@hackthissite.org">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Name: Damte&#10;URL: https://github.com/sofia-if/Damte&#10;Description: Testing de dispensador de pastillas destinado a adultos masyores" label="Name: Damte&#10;URL: https://github.com/sofia-if/Damte&#10;Description: Testing de dispensador de pastillas destinado a adultos masyores">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="alt2.aspmx.l.google.com" label="alt2.aspmx.l.google.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="abuse@inwx.com" label="abuse@inwx.com">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+      <node id="Porkbun LLC" label="Porkbun LLC">
+        <viz:color r="0" g="0" b="0" a="1.0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Name: hackthissite&#10;URL: https://github.com/wouter075/hackthissite&#10;Description: Help files and solutions to the hack this site challenges" target="hackthissite.org" id="0" />
+      <edge source="hackthissite.org" target="Damte" id="1" />
+      <edge source="hackthissite.org" target="16276" id="2" />
+      <edge source="hackthissite.org" target="abuse@porkbun.com" id="3" />
+      <edge source="hackthissite.org" target="h.ns.buddyns.com" id="4" />
+      <edge source="hackthissite.org" target="lostinaseaofhex" id="5" />
+      <edge source="hackthissite.org" target="alt1.aspmx.l.google.com" id="6" />
+      <edge source="hackthissite.org" target="Name: hackthissite&#10;URL: https://github.com/Amo95/hackthissite&#10;Description: pentesting vulnerable site with allanwirth " id="7" />
+      <edge source="hackthissite.org" target="Mohamed Mahmoud" id="8" />
+      <edge source="hackthissite.org" target="Name: hackthissite&#10;URL: https://github.com/jugal97/hackthissite&#10;Description: solutions of hackthissite" id="9" />
+      <edge source="hackthissite.org" target="spf.hackmail.org" id="10" />
+      <edge source="hackthissite.org" target="krikara" id="11" />
+      <edge source="hackthissite.org" target="aspmx2.googlemail.com" id="12" />
+      <edge source="hackthissite.org" target="irc@hackthissite.org" id="13" />
+      <edge source="hackthissite.org" target="Arseni Mourzenko" id="14" />
+      <edge source="hackthissite.org" target="admin@hackthissite.org" id="15" />
+      <edge source="hackthissite.org" target="www.hackthissite.org" id="16" />
+      <edge source="hackthissite.org" target="Phil Laliberte" id="17" />
+      <edge source="hackthissite.org" target="Name: hackthissite&#10;URL: https://github.com/Wh1t3Fox/hackthissite&#10;Description: My scripts from hackthissite.org" id="18" />
+      <edge source="hackthissite.org" target="f.ns.buddyns.com" id="19" />
+      <edge source="hackthissite.org" target="aspmx.googlemail.com" id="20" />
+      <edge source="hackthissite.org" target="j.ns.buddyns.com" id="21" />
+      <edge source="hackthissite.org" target="ashanbrown" id="22" />
+      <edge source="hackthissite.org" target="c.ns.buddyns.com" id="23" />
+      <edge source="hackthissite.org" target="Jackal" id="24" />
+      <edge source="hackthissite.org" target="United States" id="25" />
+      <edge source="hackthissite.org" target="aspmx.l.google.com" id="26" />
+      <edge source="hackthissite.org" target="John Qian" id="27" />
+      <edge source="hackthissite.org" target="g.ns.buddyns.com" id="28" />
+      <edge source="hackthissite.org" target="Jimtrim" id="29" />
+      <edge source="hackthissite.org" target="Name: hackthissite&#10;URL: https://github.com/Dryl0gic/hackthissite&#10;Description: none" id="30" />
+      <edge source="hackthissite.org" target="aspmx5.googlemail.com" id="31" />
+      <edge source="hackthissite.org" target="aspmx4.googlemail.com" id="32" />
+      <edge source="hackthissite.org" target="user3295361" id="33" />
+      <edge source="hackthissite.org" target="patrick1337" id="34" />
+      <edge source="hackthissite.org" target="+18557675286" id="35" />
+      <edge source="hackthissite.org" target="Name: hackthissite&#10;URL: https://github.com/Swifty-Sousa/hackthissite&#10;Description: my solutions for hackthissite" id="36" />
+      <edge source="hackthissite.org" target="mail.hackthissite.org" id="37" />
+      <edge source="hackthissite.org" target="user638585" id="38" />
+      <edge source="hackthissite.org" target="Juicy" id="39" />
+      <edge source="hackthissite.org" target="Robert" id="40" />
+      <edge source="hackthissite.org" target="scram@hackthissite.org" id="41" />
+      <edge source="hackthissite.org" target="adam" id="42" />
+      <edge source="hackthissite.org" target="aspmx3.googlemail.com" id="43" />
+      <edge source="hackthissite.org" target="Porkbun LLC" id="44" />
+      <edge source="hackthissite.org" target="alt2.aspmx.l.google.com" id="45" />
+      <edge source="Name: adam&#10;URL: https://github.com/ami-iit/adam&#10;Description: adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy." target="adam" id="46" />
+      <edge source="adam" target="github: &lt;SFURL&gt;https://github.com/adamallidina&lt;/SFURL&gt;" id="47" />
+      <edge source="adam" target="Name: adam&#10;URL: https://github.com/Malinskiy/adam&#10;Description: Adam (or adm) is a coroutine-friendly Android Debug Bridge client written in Kotlin" id="48" />
+      <edge source="adam" target="Name: adam&#10;URL: https://github.com/lf-edge/adam&#10;Description: Adam talks to EVE" id="49" />
+      <edge source="adam" target="Name: adam&#10;URL: https://github.com/bigdatagenomics/adam&#10;Description: ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed." id="50" />
+      <edge source="Damte" target="Name: Damte&#10;URL: https://github.com/sofia-if/Damte&#10;Description: Testing de dispensador de pastillas destinado a adultos masyores" id="51" />
+      <edge source="MarkMonitor, Inc." target="google.com" id="52" />
+      <edge source="MarkMonitor, Inc." target="googlemail.com" id="53" />
+      <edge source="google.com" target="whoisrequest@markmonitor.com" id="54" />
+      <edge source="google.com" target="Google LLC" id="55" />
+      <edge source="google.com" target="United States" id="56" />
+      <edge source="google.com" target="aspmx.l.google.com" id="57" />
+      <edge source="google.com" target="alt2.aspmx.l.google.com" id="58" />
+      <edge source="google.com" target="MarkMonitor Inc." id="59" />
+      <edge source="google.com" target="alt1.aspmx.l.google.com" id="60" />
+      <edge source="google.com" target="abusecomplaints@markmonitor.com" id="61" />
+      <edge source="lir@ovh.net" target="16276" id="62" />
+      <edge source="16276" target="abuse@ovh.net" id="63" />
+      <edge source="16276" target="noc@ovh.net" id="64" />
+      <edge source="16276" target="2 rue Kellermann, 59100, Roubaix, FRANCE" id="65" />
+      <edge source="16276" target="www.hackthissite.org" id="66" />
+      <edge source="INWX GmbH" target="buddyns.com" id="67" />
+      <edge source="buddyns.com" target="United States" id="68" />
+      <edge source="buddyns.com" target="contact@domainprivacyprotect.info" id="69" />
+      <edge source="buddyns.com" target="g.ns.buddyns.com" id="70" />
+      <edge source="buddyns.com" target="j.ns.buddyns.com" id="71" />
+      <edge source="buddyns.com" target="abuse@domrobot.com" id="72" />
+      <edge source="buddyns.com" target="c.ns.buddyns.com" id="73" />
+      <edge source="buddyns.com" target="f.ns.buddyns.com" id="74" />
+      <edge source="buddyns.com" target="h.ns.buddyns.com" id="75" />
+      <edge source="buddyns.com" target="abuse@inwx.com" id="76" />
+      <edge source="whoisrequest@markmonitor.com" target="googlemail.com" id="77" />
+      <edge source="United States" target="googlemail.com" id="78" />
+      <edge source="United States" target="+18557675286" id="79" />
+      <edge source="Jake Jedlicka" target="Jackal" id="80" />
+      <edge source="Jackal" target="reddit: &lt;SFURL&gt;https://reddit.com/user/Martytoof&lt;/SFURL&gt;" id="81" />
+      <edge source="krikara" target="Nick Chin" id="82" />
+      <edge source="aspmx2.googlemail.com" target="googlemail.com" id="83" />
+      <edge source="googlemail.com" target="aspmx3.googlemail.com" id="84" />
+      <edge source="googlemail.com" target="aspmx5.googlemail.com" id="85" />
+      <edge source="googlemail.com" target="aspmx4.googlemail.com" id="86" />
+      <edge source="googlemail.com" target="MarkMonitor Inc." id="87" />
+      <edge source="googlemail.com" target="abusecomplaints@markmonitor.com" id="88" />
+      <edge source="googlemail.com" target="Google LLC" id="89" />
+      <edge source="Name: Robert&#10;URL: https://github.com/Robert-2/Robert&#10;Description: WebApp open source de gestion de parc de location de mat&#233;riel, de techniciens, calendrier..." target="Robert" id="90" />
+      <edge source="Robert" target="github: &lt;SFURL&gt;https://github.com/ottbot&lt;/SFURL&gt;" id="91" />
+      <edge source="50.6922628,3.1999342" target="2 rue Kellermann, 59100, Roubaix, FRANCE" id="92" />
+    </edges>
+  </graph>
+</gexf>
