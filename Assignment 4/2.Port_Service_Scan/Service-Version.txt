@@ -1,0 +1,34 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-12 23:20 IST
+Nmap scan report for zero.webappsecurity.com (54.82.22.214)
+Host is up (0.35s latency).
+rDNS record for 54.82.22.214: ec2-54-82-22-214.compute-1.amazonaws.com
+
+PORT    STATE    SERVICE  VERSION
+22/tcp  filtered ssh
+80/tcp  open     http     Apache Tomcat/Coyote JSP engine 1.1
+|_http-title: Zero - Personal Banking - Loans - Credit Cards
+|_http-server-header: Apache-Coyote/1.1
+| http-methods: 
+|_  Potentially risky methods: PUT DELETE TRACE PATCH
+443/tcp open     ssl/http Apache httpd 2.2.6 ((Win32) mod_ssl/2.2.6 OpenSSL/0.9.8e mod_jk/1.2.40)
+|_http-server-header: Apache/2.2.6 (Win32) mod_ssl/2.2.6 OpenSSL/0.9.8e mod_jk/1.2.40
+| ssl-cert: Subject: commonName=zero.webappsecurity.com/organizationName=Micro Focus LLC/stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:zero.webappsecurity.com
+| Not valid before: 2021-04-26T00:00:00
+|_Not valid after:  2022-05-04T23:59:59
+| sslv2: 
+|   SSLv2 supported
+|   ciphers: 
+|     SSL2_DES_64_CBC_WITH_MD5
+|     SSL2_RC2_128_CBC_WITH_MD5
+|     SSL2_RC4_128_EXPORT40_WITH_MD5
+|     SSL2_DES_192_EDE3_CBC_WITH_MD5
+|     SSL2_RC4_128_WITH_MD5
+|_    SSL2_RC2_128_CBC_EXPORT40_WITH_MD5
+|_ssl-date: 2025-09-12T17:50:55+00:00; 0s from scanner time.
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Potentially risky methods: TRACE
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 38.26 seconds

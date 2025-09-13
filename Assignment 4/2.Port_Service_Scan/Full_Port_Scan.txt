@@ -1,0 +1,13 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-13 00:01 IST
+Nmap scan report for zero.webappsecurity.com (54.82.22.214)
+Host is up (0.31s latency).
+rDNS record for 54.82.22.214: ec2-54-82-22-214.compute-1.amazonaws.com
+Not shown: 65531 filtered tcp ports (no-response)
+PORT     STATE SERVICE  VERSION
+53/tcp   open  domain   dnsmasq 2.78
+80/tcp   open  http     Apache Tomcat/Coyote JSP engine 1.1
+443/tcp  open  ssl/http Apache httpd 2.2.6 ((Win32) mod_ssl/2.2.6 OpenSSL/0.9.8e mod_jk/1.2.40)
+8080/tcp open  http     Apache Tomcat/Coyote JSP engine 1.1
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 647.92 seconds
