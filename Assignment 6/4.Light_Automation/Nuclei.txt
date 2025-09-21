@@ -1,0 +1,22 @@
+[dvwa-default-login] [http] [critical] http://127.0.0.1:42001/index.php [password="password",username="admin"]
+[cookies-without-secure] [javascript] [info] 127.0.0.1:42001 ["security","PHPSESSID"]
+[external-service-interaction] [http] [info] http://127.0.0.1:42001/
+[waf-detect:nginxgeneric] [http] [info] http://127.0.0.1:42001/
+[robots-txt] [http] [info] http://127.0.0.1:42001/robots.txt
+[http-missing-security-headers:strict-transport-security] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:permissions-policy] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:x-frame-options] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:referrer-policy] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:clear-site-data] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:content-security-policy] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:x-content-type-options] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://127.0.0.1:42001/login.php
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://127.0.0.1:42001/login.php
+[robots-txt-endpoint] [http] [info] http://127.0.0.1:42001/robots.txt
+[fingerprinthub-web-fingerprints:dvwa] [http] [info] http://127.0.0.1:42001/login.php
+[tech-detect:nginx] [http] [info] http://127.0.0.1:42001/login.php
+[tech-detect:php] [http] [info] http://127.0.0.1:42001/
+[tech-detect:nginx] [http] [info] http://127.0.0.1:42001/
+[ptr-fingerprint] [dns] [info] 1.0.0.127.in-addr.arpa ["localhost.localdomain."]
