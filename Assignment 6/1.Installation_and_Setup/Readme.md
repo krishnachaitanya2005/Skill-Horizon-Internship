@@ -1,4 +1,4 @@
-## Step 1 – Installation & Setup
+# Step 1 – Installation & Setup
 
 ```
 sudo apt update
@@ -9,3 +9,4 @@ sudo systemctl enable apache2
 ```
 Open DVWA  at `http://127.0.0.1:42001/`.
 Click *Create / Reset Database* on `setup.php`, then log in with `admin / password`.
+
